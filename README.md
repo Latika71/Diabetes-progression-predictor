@@ -1,4 +1,4 @@
-# 🩺 Diabetes Disease Progression Predictor
+#  Diabetes Disease Progression Predictor
 
 A Machine Learning web app that predicts diabetes disease progression score based on patient health features.
 
