@@ -31,6 +31,6 @@ Predicted disease progression score (25–346).
 - 🟡 100–200 — Moderate progression
 - 🔴 Above 200 — High progression
 
-## 👩‍💻 Author
+##  Author
 **Latika Chaudhary**
-MCA Final Year — Lovely Professional University
+
